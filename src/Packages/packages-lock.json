@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.leopotam.ecs": {
+      "version": "https://github.com/voody2506/ecs.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "d2cbf428cf7977eebf9df51fb9b3b9a62090575c"
+    },
     "com.unity.2d.animation": {
       "version": "7.0.6",
       "depth": 1,

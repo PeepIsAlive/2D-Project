@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638047470412347289
-    m_Hash: 71198528
+      ticks: 638048384396389128
+    m_Hash: 2928833687
   m_LockFileStatus:
     m_FilePath: E:/Unity/Unity Project/2D-Project/src/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638047470412405614
-    m_Hash: 2073722522
+      ticks: 638048384396506725
+    m_Hash: 1598535040
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -22,6 +22,56 @@ m_LocalPackages:
 m_ProjectPath: E:/Unity/Unity Project/2D-Project/src/Packages
 m_EditorVersion: 2021.3.9f1 (ad3870b89536)
 m_ResolvedPackages:
+- packageId: com.leopotam.ecs@https://github.com/voody2506/ecs.git
+  testable: 0
+  isDirectDependency: 1
+  version: 2021.7.22
+  source: 5
+  resolvedPath: E:\Unity\Unity Project\2D-Project\src\Library\PackageCache\com.leopotam.ecs@d2cbf428cf
+  assetPath: Packages/com.leopotam.ecs
+  name: com.leopotam.ecs
+  displayName: LeoECS Core
+  author:
+    name: Leopotam
+    email: 
+    url: 
+  category: 
+  type: 
+  description: LeoECS is simple lightweight C# Entity Component System framework
+    based on structs. Performance, zero/small memory allocations/footprint - main
+    goals of this project.
+  status: 4
+  errors: []
+  versions:
+    all: []
+    compatible: []
+    verified: 
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - leoecs
+  - ecs
+  - performance
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/voody2506/ecs.git
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
 - packageId: com.unity.collab-proxy@1.17.2
   testable: 0
   isDirectDependency: 1

@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638048384396389128
-    m_Hash: 2928833687
+      ticks: 638049234420303623
+    m_Hash: 2735411363
   m_LockFileStatus:
     m_FilePath: E:/Unity/Unity Project/2D-Project/src/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638048384396506725
-    m_Hash: 1598535040
+      ticks: 638049234420426776
+    m_Hash: 1728440197
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -67,6 +67,57 @@ m_ResolvedPackages:
   repository:
     type: git
     url: https://github.com/voody2506/ecs.git
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+- packageId: com.leopotam.ecslite@https://github.com/voody2506/ecslite.git
+  testable: 0
+  isDirectDependency: 1
+  version: 2022.2.22
+  source: 5
+  resolvedPath: E:\Unity\Unity Project\2D-Project\src\Library\PackageCache\com.leopotam.ecslite@438b839bc1
+  assetPath: Packages/com.leopotam.ecslite
+  name: com.leopotam.ecslite
+  displayName: LeoECS Lite
+  author:
+    name: Leopotam
+    email: 
+    url: 
+  category: 
+  type: 
+  description: LeoECS Lite is lightweight C# Entity Component System framework based
+    on structs. Performance, zero/small memory allocations/footprint, no dependency
+    on fucking Unity engine - main goals of this project.
+  status: 4
+  errors: []
+  versions:
+    all: []
+    compatible: []
+    verified: 
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - leoecslite
+  - leoecs
+  - ecs
+  - performance
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/voody2506/ecslite.git
     revision: 
     path: 
   unityLifecycle:
@@ -707,6 +758,7 @@ m_ResolvedPackages:
     - 1.1.31
     - 1.1.33
     - 1.3.0
+    - 1.3.1
     - 2.0.1-exp.1
     - 2.0.1-exp.2
     - 2.0.1-pre.12
@@ -715,6 +767,7 @@ m_ResolvedPackages:
     - 1.1.31
     - 1.1.33
     - 1.3.0
+    - 1.3.1
     - 2.0.1-exp.1
     - 2.0.1-exp.2
     - 2.0.1-pre.12
@@ -1216,6 +1269,57 @@ m_ResolvedPackages:
     path: 
   unityLifecycle:
     version: 1.7.8
+    nextVersion: 
+- packageId: com.voody.unileo@https://github.com/voody2506/UniLeo.git
+  testable: 0
+  isDirectDependency: 1
+  version: 1.2.1
+  source: 5
+  resolvedPath: E:\Unity\Unity Project\2D-Project\src\Library\PackageCache\com.voody.unileo@bbaed2aec8
+  assetPath: Packages/com.voody.unileo
+  name: com.voody.unileo
+  displayName: UniLeo
+  author:
+    name: Voody2506
+    email: voody2506@gmail.com
+    url: 
+  category: 
+  type: 
+  description: Unity Conversion Workflow for Leopotam ECS. Easy convert GameObjects
+    to Entity.
+  status: 4
+  errors: []
+  versions:
+    all: []
+    compatible: []
+    verified: 
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - leoecs
+  - ecs
+  - performance
+  - voody2506
+  - UniLeo
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/voody2506/UniLeo.git
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
     nextVersion: 
 - packageId: com.unity.modules.ai@1.0.0
   testable: 0
